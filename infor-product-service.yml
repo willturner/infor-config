@@ -1,0 +1,5 @@
+# CentralDB DataSource Configuration
+central.db.host: 52.168.120.182
+central.db.username: postgres
+central.db.password: postgres
+dse.host: 52.168.122.114
